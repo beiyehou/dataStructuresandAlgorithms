@@ -1,5 +1,6 @@
 // let input = [1,-4,1,9,-6,7,-3];
-let input = [-1,-4,1,-9,-6,7,-3];
+// let input = [-1,-4,1,-9,-6,7,-3];
+let input = [-1,-4,-1,-9,-6,-7,-3];
 
 function max(left, right) {
     return (left > right) ? left: right;
